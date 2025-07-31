@@ -118,7 +118,7 @@ Thanks to the dataset provider and the open-source community for tools that made
  ---
 
  ## Contact 
- Feel free to on [WhatsApp](+923112578681) or [Facebook](https://www.facebook.com/profile.php?id=61575636217032), [twitter/x.com](Zahabia Ahmed@AhmedZahabia) , [Instagram](https://www.instagram.com/zahabiaahmed/) 
+ Feel free to on [WhatsApp](+923112578681) or [Facebook](https://www.facebook.com/profile.php?id=61575636217032), [twitter/x.com](@AhmedZahabia) , [Instagram](https://www.instagram.com/zahabiaahmed/) 
 
  ---
  ## Watch Live Stream 
