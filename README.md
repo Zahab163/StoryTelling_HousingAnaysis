@@ -118,7 +118,7 @@ Thanks to the dataset provider and the open-source community for tools that made
  ---
 
  ## Contact 
- Feel free to on WhatsApp :+923112578681 or Facebook, twitter/x.com , Instagram 
+ Feel free to on [WhatsApp](+923112578681) or Facebook, twitter/x.com , Instagram 
 
  ---
  ## Watch Live Stream 
