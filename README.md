@@ -145,6 +145,7 @@ Thanks to the dataset provider and the open-source community for tools that made
  ---
  ## Watch Live Stream 
  View From Here:[Live Stream](https://youtu.be/3zwiF79CwgU?si=TFUedGT_QdI9nI4t)
+ View Revised version Here:[Housing_Analysis](https://youtu.be/aLuM9LZ7ArI?si=gt0_-dBvZBtnAqXI)
 
 
 
