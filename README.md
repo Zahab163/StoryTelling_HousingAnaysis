@@ -1,7 +1,8 @@
 # StoryTelling_HousingAnaysis
 # 🏡 Storytelling Assignment: Explore a Housing Prices Dataset Using Pandas
 
-This assignment focuses on uncovering insights from a housing prices dataset through data storytelling. Using Pandas and visualization libraries, we explore trends in property prices, area sizes, and bedroom counts to narrate the dynamics of the housing market.
+This project uncovers insights from a housing prices dataset through data storytelling. Using Pandas, Matplotlib, and Seaborn, we explore trends in property prices, area sizes, and bedroom counts to narrate the dynamics of the housing market.
+
 
 ---
 
@@ -82,6 +83,18 @@ The dataset contains 545 property listings with the following key features:
 - **Histograms**: Reveal frequency and skewness of price and area  
 - **Scatter Plot**: Price vs Area, color-coded by bedroom count  
 - **Bar Chart**: Average price per bedroom category
+- **Correlation Heatmap** : Categorical variables were encoded using pd.get_dummies() to compute correlations.
+-**Pair Plot Analysis**: Used to explore relationships between numerical variables and how they vary across categories.
+
+
+
+- 
+
+  
+
+
+- 
+
 
 All plots are created using Seaborn and Matplotlib for clear and informative visuals.
 
@@ -100,6 +113,15 @@ Most homes are moderately sized, but the presence of very large properties adds 
 
 ### Market Diversity  
 The data reflects a dynamic housing market with no single dominant category. Buyers and sellers should consider the full range of options when making decisions.
+
+##Further  Key Takeaways
+- Price and area show wide variability and positive skew.
+- Furnishing status significantly influences pricing.
+- Visualizations like histograms, box plots, and violin plots reveal deep insights.
+- Pair plots and heatmaps help uncover relationships between features.
+
+
+
 
 ---
 
