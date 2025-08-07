@@ -84,6 +84,7 @@ The dataset contains 545 property listings with the following key features:
 - **Scatter Plot**: Price vs Area, color-coded by bedroom count  
 - **Bar Chart**: Average price per bedroom category
 - **Correlation Heatmap** : Categorical variables were encoded using pd.get_dummies() to compute correlations.
+
 -**Pair Plot Analysis**: Used to explore relationships between numerical variables and how they vary across categories.
 
 
@@ -135,7 +136,7 @@ The data reflects a dynamic housing market with no single dominant category. Buy
 
 ##  Acknowledgments
 
-Thanks to the dataset provider and the open-source community for tools that made this analysis possible.
+Thanks to the dataset provider kaggle  and the open-source community for tools that made this analysis possible.Special Thanks to **Miss Aqsa Moiz** to giving us this knowledge and skills and **S.M.I.T** to providing us the learning platform.
 
  ---
 
