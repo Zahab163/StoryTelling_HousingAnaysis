@@ -84,7 +84,6 @@ The dataset contains 545 property listings with the following key features:
 - **Scatter Plot**: Price vs Area, color-coded by bedroom count  
 - **Bar Chart**: Average price per bedroom category
 - **Correlation Heatmap** : Categorical variables were encoded using pd.get_dummies() to compute correlations.
-
 -**Pair Plot Analysis**: Used to explore relationships between numerical variables and how they vary across categories.
 
 
